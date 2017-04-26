@@ -12,6 +12,7 @@
 		DB4408C21EB03DB7003739AA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB4408C01EB03DB7003739AA /* Main.storyboard */; };
 		DB4408C41EB03DB7003739AA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DB4408C31EB03DB7003739AA /* Assets.xcassets */; };
 		DB4408C71EB03DB7003739AA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB4408C51EB03DB7003739AA /* LaunchScreen.storyboard */; };
+		DB4408CF1EB047FE003739AA /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = DB4408CE1EB047FE003739AA /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		DB4408C31EB03DB7003739AA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DB4408C61EB03DB7003739AA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DB4408C81EB03DB7003739AA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DB4408CE1EB047FE003739AA /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				DB4408BE1EB03DB7003739AA /* ViewController.swift */,
 				DB4408C01EB03DB7003739AA /* Main.storyboard */,
 				DB4408C31EB03DB7003739AA /* Assets.xcassets */,
+				DB4408CE1EB047FE003739AA /* pokemon.csv */,
 				DB4408C51EB03DB7003739AA /* LaunchScreen.storyboard */,
 				DB4408C81EB03DB7003739AA /* Info.plist */,
 			);
@@ -125,6 +128,7 @@
 			files = (
 				DB4408C71EB03DB7003739AA /* LaunchScreen.storyboard in Resources */,
 				DB4408C41EB03DB7003739AA /* Assets.xcassets in Resources */,
+				DB4408CF1EB047FE003739AA /* pokemon.csv in Resources */,
 				DB4408C21EB03DB7003739AA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -299,6 +303,7 @@
 				DB4408CD1EB03DB7003739AA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
